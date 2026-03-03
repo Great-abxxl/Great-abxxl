@@ -3,8 +3,6 @@
   <h3>Cybersecurity Researcher| Lead Singer & Guitarist 🎸</h3>
 </div>
 
-### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Great-abxxl&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
